@@ -1,9 +1,9 @@
 var MasterConfig = function() {
     var t = {
                 
-        baseUrl: "https://www.e-shequ.com/dhzj3/wechat/hexie/wechat/",
-        basePageUrl:"https://www.e-shequ.com/dhzj3/weixin/",
-        appId: "wxe8dea53aad1a93b9",
+        baseUrl: "https://www.e-shequ.com/qibao/wechat/hexie/wechat/",
+        basePageUrl:"https://www.e-shequ.com/qibao/weixin/",
+        appId: "wx6160b615066a9f78",
         
         oauthUrl: "https://open.weixin.qq.com/connect/oauth2/authorize?",
         oauthUrlPostFix:"&response_type=code&scope=snsapi_userinfo&state=123#wechat_redirect",
@@ -11,10 +11,10 @@ var MasterConfig = function() {
         bindAppId: "wxbd214f5765f346c1",
         
 		payPageFolder:"https://www.e-shequ.com/pay/",
-        payPageSuffix:"zj3",		//hexie
+        payPageSuffix:"qibao",		//hexie
 
         baidu_map_key:"RUWUgrEEF5VjoaWsstMMZwOD",
-        shop_name: "东湖e家园",
+        shop_name: "七宝物业云",
         
         is_debug:false,
        
@@ -37,7 +37,7 @@ var Config = function() {
             no_goods: "更多新品正在陆续推出..."
         },
         user_info: {
-            avatar: "https://www.e-shequ.com/dhzj3/weixin/static/images/logo.jpg",
+            avatar: "https://www.e-shequ.com/qibao/weixin/static/images/logo.jpg",
             nickname: "游客",
             levelname: "普通会员"
         },
@@ -47,7 +47,7 @@ var Config = function() {
             2 : "大楼VIP"
         },
         coupon:{
-            seedImg:"https://www.e-shequ.com/dhzj3/weixin/static/img/banner/banner_market_shuiguo.jpg"
+            seedImg:"https://www.e-shequ.com/qibao/weixin/static/img/banner/banner_market_shuiguo.jpg"
         }
     },
     e = {};
