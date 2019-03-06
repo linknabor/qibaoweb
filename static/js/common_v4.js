@@ -14,7 +14,7 @@ var MasterConfig = function() {
         payPageSuffix:"zj3",		//hexie
 
         baidu_map_key:"RUWUgrEEF5VjoaWsstMMZwOD",
-        shop_name: "东湖e家园",
+        shop_name: "七宝物业云",
         
         is_debug:true,
        

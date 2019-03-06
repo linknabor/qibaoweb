@@ -17,7 +17,7 @@ avalon.ready(function(){
 		$id:"root",
 		model:{},
 		titlecontent:"反馈对象：",
-		fbtype:["物业","居委会","东湖e家园"],
+		fbtype:["物业","居委会","七宝物业云"],
 		modelBox:"list",
 		closebox:function(){
 			closeBox();

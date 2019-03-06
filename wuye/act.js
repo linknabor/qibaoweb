@@ -21,7 +21,7 @@ avalon.ready(function() {
 
     function showContent(){
     	
-    	var content = "您将获得由东湖e家园赠送的10元代金券一张。";
+    	var content = "您将获得由七宝物业云赠送的10元代金券一张。";
     	var p = "<p>"+content+"</p>";
     	$("#content").html(p);
     
